@@ -24,7 +24,7 @@ use Params::Util qw{_CLASS _HASH _INSTANCE};
 
 use vars qw{$VERSION};
 BEGIN {
-	$VERSION = '0.01';
+	$VERSION = '0.02';
 }
 
 
@@ -157,7 +157,7 @@ sub as_string {
 
 This module is stored in an Open Repository at the following address.
 
-L<http://svn.phase-n.com/svn/cpan/trunk/Module-Math-Depends>
+L<http://svn.ali.as/cpan/trunk/Module-Math-Depends>
 
 Write access to the repository is made available automatically to any
 published CPAN author, and to most other volunteers on request.
@@ -187,7 +187,7 @@ Adam Kennedy E<lt>adamk@cpan.orgE<gt>
 
 =head1 COPYRIGHT
 
-Copyright 2006 Adam Kennedy.
+Copyright 2006 - 2008 Adam Kennedy.
 
 This program is free software; you can redistribute
 it and/or modify it under the same terms as Perl itself.
